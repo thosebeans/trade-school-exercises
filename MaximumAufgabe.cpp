@@ -40,7 +40,7 @@ int main() {
     for (int i = 0; i < 5; i++) {
         cout << '\t' << i;
     };
-    cout << endl;
+    cout << endl << endl;
     int ndx = 0;
     for (int i = 0; i < 5; i++) {
         if (arr[i] > arr[ndx]) {
